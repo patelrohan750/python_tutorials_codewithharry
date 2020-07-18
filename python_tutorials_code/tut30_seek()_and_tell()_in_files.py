@@ -1,0 +1,7 @@
+f=open("tut26_test.txt")
+print(f.seek(4))
+print(f.readline())
+# print(f.tell())
+print(f.readline())
+# print(f.tell())
+f.close()

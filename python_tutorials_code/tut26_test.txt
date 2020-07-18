@@ -1,0 +1,3 @@
+hello friends
+this is python tutorial for file read
+have good day
